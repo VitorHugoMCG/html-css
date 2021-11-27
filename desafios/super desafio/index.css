@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    background-color: #0b1aee;
+   }
+   
+   #menu1 ul {
+    background-color: #0b1aee;
+    margin: 0;
+    font-style: none;
+    
+   }
+   
+   #menu1 ul li {
+   display: inline;
+   
+   }
+   #menu1 ul li a {
+       font: 16pt normal arial;
+       padding: 24px 10px;
+       display: inline-block;
+       color: #ffffff;
+       text-decoration: none;
+       
+       
+   }
+   #logo {
+    float: left;
+    padding:10px 0px;  
+}
+
+
+h1{
+    font: 53pt arial;
+    color: #ffffff;
+    padding:10px 0px;  
+    margin-top:20%;
+    padding:0px 30px;  
+}
+strong{
+    color: aqua;
+}
+
+p{
+    font: 30pt arial;
+    color: #ffffff;
+    padding:0px 30px;  
+}
+    
+img{
+   
+    float: right;
+}
+

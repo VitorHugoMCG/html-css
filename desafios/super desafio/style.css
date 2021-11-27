@@ -1,0 +1,79 @@
+body{
+ margin: 0;
+ background-color: #f6fdff;
+}
+
+#menu ul {
+ background-color: #f4feff;
+ margin: 0;
+ font-style: none;
+ 
+}
+
+#menu ul li {
+display: inline;
+
+}
+#menu ul li a {
+    font: 16pt normal arial;
+    padding: 25px 10px;
+    display: inline-block;
+    color: #1c0051;
+    text-decoration: none;
+    
+    
+}
+ 
+#menu ul li a:hover {
+color:#2534ff;
+
+}
+#contato{
+    background-color:#f4feff;
+    font: 35pt arial;
+    color: #1c0051;
+    margin: 0;
+    padding:120px 35px;
+}
+
+
+#cursos{
+    background-color:#f4feff;
+    font: 35pt arial;
+    color: #1c0051;
+    margin: 0;
+    padding:120px 35px;
+}
+#inicio{
+    background-color:#f4feff;
+    font: 35pt arial;
+    color: #1c0051;
+    margin: 0;
+    padding:120px 35px;
+}
+
+#Hprimeiro{
+    background-color:#f4feff;
+    font: 35pt arial;
+    color: #1c0051;
+    margin: 0;
+    padding:120px 35px;
+}
+#Hsegundo{
+    font: 15pt arial;
+    color: #1c0051;
+    float: right;
+    
+}
+
+
+
+
+#logo {
+    float: left;
+    padding:10px 0px;  
+}
+img {
+  float: right;
+  padding:0px 50px;
+}
